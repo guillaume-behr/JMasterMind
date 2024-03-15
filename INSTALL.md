@@ -19,7 +19,7 @@ Particularité nécessaire :
 
 ### Installation
 
-Télécharger le ZIP "Executable_JAR.zip" : https://git.unistra.fr/renaud-behr/a31-mastermind/-/blob/rendu2/Executable/ZIP/Executable_JAR.zip?ref_type=heads
+Télécharger le ZIP "Executable_JAR.zip" dans le dossier "Executable/ZIP"
 
 Une fois le dossier téléchargé, dé-zipper le.
 
